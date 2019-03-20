@@ -206,6 +206,18 @@ a:focus {
     max-width: 36em;
 }
 
+.u-max-width-md {
+    max-width: 45em;
+}
+
+.u-max-width-lg {
+    max-width: 60em;
+}
+
+.u-max-width-xl {
+    max-width: 75em;
+}
+
 /*
     Utility: Utility name
     ---
